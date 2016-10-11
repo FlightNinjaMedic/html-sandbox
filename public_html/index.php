@@ -29,7 +29,7 @@
 
 			<!-- begin section 2 -->
 			<section>
-				<h2></h2>
+				<h2> My Favorite Things</h2>
 				<ul>
 					<li>Senator Arlo</li>
 					<li>Star Wars</li>
@@ -40,7 +40,29 @@
 
 			<!-- begin section 3-->
 			<section>
+				<table>
+					<tr>
+						<th>Column One</th>
+						<th>Column Two</th>
+					</tr>
 
+					<tr>
+						<td>Cat</td>
+						<td>Car</td>
+
+					</tr>
+
+					<tr>
+						<td>Dog</td>
+						<td>Bike</td>
+
+					</tr>
+
+					<tr>
+						<td>Star Wars</td>
+						<td>Wine</td>
+					</tr>
+				</table>
 			</section>
 		</main>
 	</body>
