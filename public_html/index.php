@@ -27,7 +27,7 @@
 
 					Donec id magna pretium, fermentum nisl a, euismod ante. Nullam lectus felis, posuere eget pulvinar eu, blandit eu nulla. Proin consectetur mollis ex, sit amet finibus neque malesuada et. Aenean vel pharetra metus, vitae porttitor sapien. Vestibulum non posuere mauris, non imperdiet tortor. Curabitur tempus lacus eget tortor vehicula dignissim. Phasellus vitae tellus ac est gravida vehicula. Duis a molestie nunc. Etiam at odio nunc.
 				</p>
-					<img src="img/femninja.tiff" alt="femninja">
+					<img src="img/coolninja.png" alt="coolninja">
 			</section>
 
 			<!-- begin section 2 -->
